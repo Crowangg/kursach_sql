@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="64a2ec8b-f65c-4601-b281-400825e99401" />
+          <option name="name" value="postgres@95.165.30.171 (DDL)" />
+          <option name="dbmsName" value="POSTGRES" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/.." />
+            </array>
+          </option>
+          <option name="remarks" value="Дамп БД курсача" />
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
